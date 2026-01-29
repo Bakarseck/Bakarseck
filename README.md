@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a developper fullstack at Zone01 Dakar
 -------------------------------
 
-* 🌍  I'm based in Senegal
+* 🌍  I'm based in Dakar, Senegal
 * ✉️  You can contact me at [seck.bakar@ugb.edu.sn](mailto:seck.bakar@ugb.edu.sn)
 * 🧠  I'm learning golang, python, c, etc.
 * 🤝  I'm open to collaborating on Web developper, Algorithms and writting functions

@@ -12,6 +12,8 @@ I am a developper fullstack at Zone01 Dakar
 <a href="https://www.github.com/Bakarseck" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bakarseck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![Galsen Streak](https://galsen-streak.vercel.app/streak/Bakarseck)
+
 ### Skills
 
 

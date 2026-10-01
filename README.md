@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/Bakarseck?logo=github&style=for-the
 
 <a href="http://www.github.com/Bakarseck"><img src="https://github-readme-stats.vercel.app/api?username=Bakarseck&show_icons=true&hide=stars,contribs&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bakarseck's GitHub stats" /></a>
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/bakarseck)](https://ghfind.com/u/bakarseck?ref=badge)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/bakarseck?variant=radar&theme=dark)](https://ghfind.com/u/bakarseck?ref=badge)
 
 <a href="http://www.github.com/Bakarseck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bakarseck&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
